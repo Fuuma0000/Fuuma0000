@@ -1,7 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fuuma0000&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fuuma0000&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuuma0000&layout=compact&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Fuuma0000&theme=radical&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuuma0000&layout=compact&show_icons=true&theme=radical"&no-frame=true />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Fuuma0000&theme=radical&show_icons=ture"&no-frame=true />
 </p>
 
 
