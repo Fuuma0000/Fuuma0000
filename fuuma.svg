@@ -1,4 +1,4 @@
-<svg width="200" height="25" viewBox="0 0 200 25" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="100" viewBox="0 0 200 25" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <linearGradient id="gaming" spreadMethod="repeat">
             <animate attributeName="x1" values="0%;100%" dur="0.5s" repeatCount="indefinite" />
