@@ -16,8 +16,17 @@ I want to become an infrastructure engineer.
 <img src="icon-movie.gif" width="600">
 
 # 🌱  Learning  🌱
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,cloudflare,dart,discord,bots,docker,express,figma,firebase,flutter,go,grafana,js,linux,md,mysql,nestjs,nginx,nodejs,postman,prisma,prometheus)](https://skillicons.dev)
-
+## Application
+##### Web
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,nestjs,prisma,jest,mysql,go)](https://skillicons.dev)
+##### Mobile
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,sqlite)](https://skillicons.dev)
+##### Other
+[![My Skills](https://skillicons.dev/icons?i=py,arduino)](https://skillicons.dev)
+## Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,aws,bash,cloudflare,go,nginx,prometheus,grafana,jenkins)](https://skillicons.dev)
+## Other...
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,figma,bots,md,postman)](https://skillicons.dev)
 
 # ⚡️ Activity ⚡️
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fuuma0000&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
