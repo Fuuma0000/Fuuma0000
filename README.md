@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=64&pause=1000&color=894FFF&random=false&width=800&height=100&lines=Hi%F0%9F%91%8B%2C+I'm+Fuuma;Nice+to+meet+you!)](https://git.io/typing-svg)
+<img src="icon-movie.gif" width="800">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Fuum_a?style=social)](https://twitter.com/Fuum_a)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Fuuma0000 /> </p>
