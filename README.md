@@ -16,6 +16,7 @@
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fuuma0000&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,cloudflare,dart,discord,bots,docker,express,figma,firebase,flutter,go,grafana,js,linux,md,mysql,nestjs,nginx,nodejs,postman,prisma,prometheus)](https://skillicons.dev)
 
 
 <!--
