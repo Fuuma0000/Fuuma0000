@@ -13,6 +13,8 @@
   <img alt="github stats"  src="https://github-readme-stats.vercel.app/api?username=Fuuma0000&theme=aura&show_icons=ture&hide_border=true&include_all_commits=true&count_private=true&border_radius=40.0" />
 </div>
 
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fuuma0000&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 <!--
