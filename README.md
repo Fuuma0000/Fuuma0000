@@ -1,6 +1,7 @@
 ![Hi there](./fuuma.svg)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Fuum_a?style=social)](https://twitter.com/Fuum_a)
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Fuuma0000 /> </p>
 
 [![Contributions](https://badgen.org/img/qiita/Fuuma/contributions?style=for-the-badge)](https://qiita.com/Fuuma)
 [![Followers](https://badgen.org/img/qiita/Fuuma/followers?style=for-the-badge)](https://qiita.com/Fuuma)
