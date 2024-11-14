@@ -1,12 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=64&pause=1000&color=894FFF&random=false&width=800&height=100&lines=Hi%F0%9F%91%8B%2C+I'm+Fuuma;Nice+to+meet+you!)](https://git.io/typing-svg)
-
-# 🟣 About Me 🟣
-Hi, I'm a student at the ECC College of Computer and Multimedia. <br>
-I want to become an infrastructure engineer.
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Fuum_a?style=social)](https://twitter.com/Fuum_a)
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Fuuma0000 /> </p>
-
 [![Contributions](https://badgen.org/img/qiita/Fuuma/contributions?style=for-the-badge)](https://qiita.com/Fuuma)
 [![Followers](https://badgen.org/img/qiita/Fuuma/followers?style=for-the-badge)](https://qiita.com/Fuuma)
 [![Articles](https://badgen.org/img/qiita/Fuuma/articles?style=for-the-badge)](https://qiita.com/Fuuma)
@@ -14,19 +5,6 @@ I want to become an infrastructure engineer.
 <a href="https://portfolio.fuuma.net/hoge">Icon❤️(かわいい)</a>
 
 <img src="icon-movie.gif" width="600">
-
-# 🌱  Learning  🌱
-## Application
-##### Web
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,nestjs,prisma,jest,mysql,go)](https://skillicons.dev)
-##### Mobile
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,sqlite)](https://skillicons.dev)
-##### Other
-[![My Skills](https://skillicons.dev/icons?i=py,arduino)](https://skillicons.dev)
-## Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,aws,bash,cloudflare,go,nginx,prometheus,grafana,jenkins)](https://skillicons.dev)
-## Other...
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,figma,bots,md,postman)](https://skillicons.dev)
 
 # ⚡️ Activity ⚡️
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fuuma0000&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
